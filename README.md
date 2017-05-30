@@ -21,3 +21,8 @@ find_org.php
 Is a simple PHP script ready for use, where you just put in your API key in the form and submit and then it will come back with all the organizations the account have access to.
 
 MORE WILL COME!
+
+Best Regards 
+
+Lasse Bang
+www.lassebang.com
