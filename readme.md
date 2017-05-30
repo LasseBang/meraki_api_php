@@ -13,14 +13,14 @@ If your API key is shared, you can regenerate your API key at any time. This wil
 
 ### Here is a overview of the files in this repository.
 
-list_network.php
+<b>list_network.php</b><br>
 Is a simple php page to list all you network inside your organization.
 You just need to put in your org number and API Key.
 
-find_org.php
+<b>find_org.php</b><br>
 Is a simple PHP script ready for use, where you just put in your API key in the form and submit and then it will come back with all the organizations the account have access to.
 
-change_ssid.php
+<b>change_ssid.php</b><br>
 With this script you can change the name of an SSID, please see the notes inside the file for the desired info.
 
 MORE WILL COME!
