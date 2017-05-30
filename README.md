@@ -1,1 +1,3 @@
-# meraki_api_php
+Meraki API - Using PHP
+
+Where 
