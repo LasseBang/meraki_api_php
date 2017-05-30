@@ -13,7 +13,7 @@
 
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-
+    //INSERT YOUR API KEY HERE, SEE README IF YOU NEED HELP TO FIND IT.
     $apikey = $_POST['apikey'];
 
  
@@ -49,7 +49,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $data =  json_decode($reply);
     
     
-            echo '<table border=1>';
+            echo '<table width=400>';
             echo '<tr>';
             echo '<td>ID</td>';
             echo '<td>Name</td>';
@@ -64,4 +64,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             echo '</table>';
 
 }
-?>
+    ?>
